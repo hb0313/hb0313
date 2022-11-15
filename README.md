@@ -7,8 +7,9 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harshadbhandwaldar)
-<img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 [<img scr="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">](https://hb0313.github.io/home/)
+<img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+
   
   
 </div> 
