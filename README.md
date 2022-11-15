@@ -2,6 +2,15 @@
 
 I GREW UP IN INDIA'S WEST-CENTRAL REGIONS, AND AS TECHNOLOGY ADVANCED, IT BECAME CLEARER AND CLEARER TO ME THAT I WANTED TO LEARN ABOUT THE EVOLUTION OF COMPUTER SCIENCE. AS A GRADUATE STUDENT IN COMPUTER SCIENCE AT BINGHAMTON UNIVERSITY IN NEW YORK, I INTEND TO BROADEN MY KNOWLEDGE WITH MAJOR COURSES.
 
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harshadbhandwaldar)
+<img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  
+</div> 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
