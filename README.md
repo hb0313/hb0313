@@ -7,7 +7,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harshadbhandwaldar)
-[<img scr="https://img.shields.io/badge/connect-%2300843e.svg?&style=for-the-badge&logo=symfony&logoColor=white">](https://www.linkedin.com/in/harshadbhandwaldar)
+[<img src="https://img.shields.io/badge/connect-%2300843e.svg?&style=for-the-badge&logo=symfony&logoColor=white">](https://hb0313.github.io/home/)
 <img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 
   
