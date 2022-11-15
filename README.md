@@ -10,10 +10,8 @@
 [<img src="https://img.shields.io/badge/connect-%2300843e.svg?&style=for-the-badge&logo=symfony&logoColor=white">](https://hb0313.github.io/home/)
 <img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 
-  
-  
-</div> 
 
-
-[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb0313)](https://github.com/anuraghazra/github-readme-stats)
+[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb0313&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
