@@ -11,9 +11,9 @@
 <img alt="followers" src="https://img.shields.io/github/followers/hb0313?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 
 
-<!-- [![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb0313&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb0313&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hb0313&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hb0313&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- [![Harshad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hb0313)](https://github.com/anuraghazra/github-readme-stats) -->
   
